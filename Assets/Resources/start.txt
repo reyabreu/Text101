@@ -1,0 +1,5 @@
+* Welcome to Prison Adventure *
+
+This is a simple text game created for the Unity Game Development course.
+
+Press SPACE to start.
